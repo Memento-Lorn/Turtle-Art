@@ -45,8 +45,6 @@ x_3.forward(90)
 x_3.right(90)
 x_3.end_fill()
 
-
-
 loopy_turtle_1=turtle.Turtle()
 loopy_turtle_1.color("red")
 loopy_turtle_1.speed(10)
